@@ -1,11 +1,11 @@
 {
   "name": "simulador-corridas-mario",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simulador de Corridas Mario Kart em Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Jhonatan",
   "license": "ISC"
 }
